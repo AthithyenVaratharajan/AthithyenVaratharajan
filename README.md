@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AthithyenVaratharajan
+- 👋 Hi, I’m @AthithyenVaratharajan I'm currently a computer engineer student from Canada
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning Full stack web development
 - 💞️ I’m looking to collaborate on Open source projects
