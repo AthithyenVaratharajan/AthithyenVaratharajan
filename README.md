@@ -2,7 +2,7 @@
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning Full stack web development
 - 💞️ I’m looking to collaborate on Open source projects
-- 📫 Reach me at athithyensv@gmail.com 
+- 📫 Reach me by email or Linkedin athithyensv@gmail.com | https://www.linkedin.com/in/athithyen-varatharajan-a10231260/
 
 <!---
 AthithyenVaratharajan/AthithyenVaratharajan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
